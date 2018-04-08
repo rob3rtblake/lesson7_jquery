@@ -4,21 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+03/08/18
 ### Student Name:  
-(First and Last Name)
+Robert Blake
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+JQuery and Methods
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/rob3rtblake/lesson7_jquery
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. Jquery
+2. Global variables
+3. Animation
 # lesson7_jquery
